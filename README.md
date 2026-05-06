@@ -11,5 +11,5 @@ feature, since it is a very specific and narrow thing to test
 that can be encapsulated in a single unit test.
 
 ### Links to GitHub Pages
-https://bennysigner.github.io/Lab5_Starter/expose.html                    
-https://bennysigner.github.io/Lab5_Starter/explore.html  
+https://b-signer.github.io/Lab5_Starter/expose.html                    
+https://b-signer.github.io/Lab5_Starter/explore.html  
